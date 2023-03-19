@@ -1,0 +1,16 @@
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\CODE\Tuan1\Tuan1\bin\Debug\net5.0\Tuan1.exe
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\CODE\Tuan1\Tuan1\bin\Debug\net5.0\Tuan1.deps.json
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\CODE\Tuan1\Tuan1\bin\Debug\net5.0\Tuan1.runtimeconfig.json
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\CODE\Tuan1\Tuan1\bin\Debug\net5.0\Tuan1.runtimeconfig.dev.json
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\CODE\Tuan1\Tuan1\bin\Debug\net5.0\Tuan1.dll
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\CODE\Tuan1\Tuan1\bin\Debug\net5.0\ref\Tuan1.dll
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\CODE\Tuan1\Tuan1\bin\Debug\net5.0\Tuan1.pdb
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\CODE\Tuan1\Tuan1\obj\Debug\net5.0\Tuan1.csproj.AssemblyReference.cache
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\CODE\Tuan1\Tuan1\obj\Debug\net5.0\Tuan1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\CODE\Tuan1\Tuan1\obj\Debug\net5.0\Tuan1.AssemblyInfoInputs.cache
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\CODE\Tuan1\Tuan1\obj\Debug\net5.0\Tuan1.AssemblyInfo.cs
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\CODE\Tuan1\Tuan1\obj\Debug\net5.0\Tuan1.csproj.CoreCompileInputs.cache
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\CODE\Tuan1\Tuan1\obj\Debug\net5.0\Tuan1.dll
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\CODE\Tuan1\Tuan1\obj\Debug\net5.0\ref\Tuan1.dll
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\CODE\Tuan1\Tuan1\obj\Debug\net5.0\Tuan1.pdb
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\CODE\Tuan1\Tuan1\obj\Debug\net5.0\Tuan1.genruntimeconfig.cache
