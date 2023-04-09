@@ -1,0 +1,16 @@
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\CODE\MangHaiChieu\MangHaiChieu\bin\Debug\net5.0\MangHaiChieu.exe
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\CODE\MangHaiChieu\MangHaiChieu\bin\Debug\net5.0\MangHaiChieu.deps.json
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\CODE\MangHaiChieu\MangHaiChieu\bin\Debug\net5.0\MangHaiChieu.runtimeconfig.json
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\CODE\MangHaiChieu\MangHaiChieu\bin\Debug\net5.0\MangHaiChieu.runtimeconfig.dev.json
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\CODE\MangHaiChieu\MangHaiChieu\bin\Debug\net5.0\MangHaiChieu.dll
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\CODE\MangHaiChieu\MangHaiChieu\bin\Debug\net5.0\ref\MangHaiChieu.dll
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\CODE\MangHaiChieu\MangHaiChieu\bin\Debug\net5.0\MangHaiChieu.pdb
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\CODE\MangHaiChieu\MangHaiChieu\obj\Debug\net5.0\MangHaiChieu.csproj.AssemblyReference.cache
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\CODE\MangHaiChieu\MangHaiChieu\obj\Debug\net5.0\MangHaiChieu.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\CODE\MangHaiChieu\MangHaiChieu\obj\Debug\net5.0\MangHaiChieu.AssemblyInfoInputs.cache
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\CODE\MangHaiChieu\MangHaiChieu\obj\Debug\net5.0\MangHaiChieu.AssemblyInfo.cs
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\CODE\MangHaiChieu\MangHaiChieu\obj\Debug\net5.0\MangHaiChieu.csproj.CoreCompileInputs.cache
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\CODE\MangHaiChieu\MangHaiChieu\obj\Debug\net5.0\MangHaiChieu.dll
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\CODE\MangHaiChieu\MangHaiChieu\obj\Debug\net5.0\ref\MangHaiChieu.dll
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\CODE\MangHaiChieu\MangHaiChieu\obj\Debug\net5.0\MangHaiChieu.pdb
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\CODE\MangHaiChieu\MangHaiChieu\obj\Debug\net5.0\MangHaiChieu.genruntimeconfig.cache
