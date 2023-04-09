@@ -1,0 +1,7 @@
+D:\Thực tập cơ sở ngành\bài tập\GIải pt bậc 2\GIải pt bậc 2\bin\Debug\GIải pt bậc 2.exe.config
+D:\Thực tập cơ sở ngành\bài tập\GIải pt bậc 2\GIải pt bậc 2\bin\Debug\GIải pt bậc 2.exe
+D:\Thực tập cơ sở ngành\bài tập\GIải pt bậc 2\GIải pt bậc 2\bin\Debug\GIải pt bậc 2.pdb
+D:\Thực tập cơ sở ngành\bài tập\GIải pt bậc 2\GIải pt bậc 2\obj\Debug\GIải pt bậc 2.csproj.AssemblyReference.cache
+D:\Thực tập cơ sở ngành\bài tập\GIải pt bậc 2\GIải pt bậc 2\obj\Debug\GIải pt bậc 2.csproj.CoreCompileInputs.cache
+D:\Thực tập cơ sở ngành\bài tập\GIải pt bậc 2\GIải pt bậc 2\obj\Debug\GIải pt bậc 2.exe
+D:\Thực tập cơ sở ngành\bài tập\GIải pt bậc 2\GIải pt bậc 2\obj\Debug\GIải pt bậc 2.pdb
