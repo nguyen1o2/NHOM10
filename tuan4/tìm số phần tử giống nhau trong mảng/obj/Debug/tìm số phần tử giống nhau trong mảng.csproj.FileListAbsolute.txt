@@ -1,0 +1,7 @@
+D:\Thực tập cơ sở ngành\bài tập\tìm số phần tử giống nhau trong mảng\tìm số phần tử giống nhau trong mảng\bin\Debug\tìm số phần tử giống nhau trong mảng.exe.config
+D:\Thực tập cơ sở ngành\bài tập\tìm số phần tử giống nhau trong mảng\tìm số phần tử giống nhau trong mảng\bin\Debug\tìm số phần tử giống nhau trong mảng.exe
+D:\Thực tập cơ sở ngành\bài tập\tìm số phần tử giống nhau trong mảng\tìm số phần tử giống nhau trong mảng\bin\Debug\tìm số phần tử giống nhau trong mảng.pdb
+D:\Thực tập cơ sở ngành\bài tập\tìm số phần tử giống nhau trong mảng\tìm số phần tử giống nhau trong mảng\obj\Debug\tìm số phần tử giống nhau trong mảng.csproj.AssemblyReference.cache
+D:\Thực tập cơ sở ngành\bài tập\tìm số phần tử giống nhau trong mảng\tìm số phần tử giống nhau trong mảng\obj\Debug\tìm số phần tử giống nhau trong mảng.csproj.CoreCompileInputs.cache
+D:\Thực tập cơ sở ngành\bài tập\tìm số phần tử giống nhau trong mảng\tìm số phần tử giống nhau trong mảng\obj\Debug\tìm số phần tử giống nhau trong mảng.exe
+D:\Thực tập cơ sở ngành\bài tập\tìm số phần tử giống nhau trong mảng\tìm số phần tử giống nhau trong mảng\obj\Debug\tìm số phần tử giống nhau trong mảng.pdb
