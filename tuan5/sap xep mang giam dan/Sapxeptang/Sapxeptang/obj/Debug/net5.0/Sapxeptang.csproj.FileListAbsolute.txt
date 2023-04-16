@@ -1,0 +1,16 @@
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\CODE\Tuan 5\Sapxeptang\Sapxeptang\bin\Debug\net5.0\Sapxeptang.exe
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\CODE\Tuan 5\Sapxeptang\Sapxeptang\bin\Debug\net5.0\Sapxeptang.deps.json
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\CODE\Tuan 5\Sapxeptang\Sapxeptang\bin\Debug\net5.0\Sapxeptang.runtimeconfig.json
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\CODE\Tuan 5\Sapxeptang\Sapxeptang\bin\Debug\net5.0\Sapxeptang.runtimeconfig.dev.json
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\CODE\Tuan 5\Sapxeptang\Sapxeptang\bin\Debug\net5.0\Sapxeptang.dll
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\CODE\Tuan 5\Sapxeptang\Sapxeptang\bin\Debug\net5.0\ref\Sapxeptang.dll
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\CODE\Tuan 5\Sapxeptang\Sapxeptang\bin\Debug\net5.0\Sapxeptang.pdb
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\CODE\Tuan 5\Sapxeptang\Sapxeptang\obj\Debug\net5.0\Sapxeptang.csproj.AssemblyReference.cache
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\CODE\Tuan 5\Sapxeptang\Sapxeptang\obj\Debug\net5.0\Sapxeptang.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\CODE\Tuan 5\Sapxeptang\Sapxeptang\obj\Debug\net5.0\Sapxeptang.AssemblyInfoInputs.cache
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\CODE\Tuan 5\Sapxeptang\Sapxeptang\obj\Debug\net5.0\Sapxeptang.AssemblyInfo.cs
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\CODE\Tuan 5\Sapxeptang\Sapxeptang\obj\Debug\net5.0\Sapxeptang.csproj.CoreCompileInputs.cache
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\CODE\Tuan 5\Sapxeptang\Sapxeptang\obj\Debug\net5.0\Sapxeptang.dll
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\CODE\Tuan 5\Sapxeptang\Sapxeptang\obj\Debug\net5.0\ref\Sapxeptang.dll
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\CODE\Tuan 5\Sapxeptang\Sapxeptang\obj\Debug\net5.0\Sapxeptang.pdb
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\CODE\Tuan 5\Sapxeptang\Sapxeptang\obj\Debug\net5.0\Sapxeptang.genruntimeconfig.cache
