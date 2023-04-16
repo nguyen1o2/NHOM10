@@ -1,0 +1,7 @@
+D:\Thực tập cơ sở ngành\bài tập\sap xep mang giam dan\sap xep mang giam dan\bin\Debug\sap xep mang giam dan.exe.config
+D:\Thực tập cơ sở ngành\bài tập\sap xep mang giam dan\sap xep mang giam dan\bin\Debug\sap xep mang giam dan.exe
+D:\Thực tập cơ sở ngành\bài tập\sap xep mang giam dan\sap xep mang giam dan\bin\Debug\sap xep mang giam dan.pdb
+D:\Thực tập cơ sở ngành\bài tập\sap xep mang giam dan\sap xep mang giam dan\obj\Debug\sap xep mang giam dan.csproj.AssemblyReference.cache
+D:\Thực tập cơ sở ngành\bài tập\sap xep mang giam dan\sap xep mang giam dan\obj\Debug\sap xep mang giam dan.csproj.CoreCompileInputs.cache
+D:\Thực tập cơ sở ngành\bài tập\sap xep mang giam dan\sap xep mang giam dan\obj\Debug\sap xep mang giam dan.exe
+D:\Thực tập cơ sở ngành\bài tập\sap xep mang giam dan\sap xep mang giam dan\obj\Debug\sap xep mang giam dan.pdb
