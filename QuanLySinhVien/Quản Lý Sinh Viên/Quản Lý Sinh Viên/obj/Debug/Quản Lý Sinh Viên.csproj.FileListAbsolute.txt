@@ -1,0 +1,10 @@
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\QuanLySinhVien\Quản Lý Sinh Viên\Quản Lý Sinh Viên\bin\Debug\Quản Lý Sinh Viên.exe.config
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\QuanLySinhVien\Quản Lý Sinh Viên\Quản Lý Sinh Viên\bin\Debug\Quản Lý Sinh Viên.exe
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\QuanLySinhVien\Quản Lý Sinh Viên\Quản Lý Sinh Viên\bin\Debug\Quản Lý Sinh Viên.pdb
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\QuanLySinhVien\Quản Lý Sinh Viên\Quản Lý Sinh Viên\obj\Debug\Quản Lý Sinh Viên.csproj.AssemblyReference.cache
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\QuanLySinhVien\Quản Lý Sinh Viên\Quản Lý Sinh Viên\obj\Debug\Quản_Lý_Sinh_Viên.frmMain.resources
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\QuanLySinhVien\Quản Lý Sinh Viên\Quản Lý Sinh Viên\obj\Debug\Quản_Lý_Sinh_Viên.Properties.Resources.resources
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\QuanLySinhVien\Quản Lý Sinh Viên\Quản Lý Sinh Viên\obj\Debug\Quản Lý Sinh Viên.csproj.GenerateResource.cache
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\QuanLySinhVien\Quản Lý Sinh Viên\Quản Lý Sinh Viên\obj\Debug\Quản Lý Sinh Viên.csproj.CoreCompileInputs.cache
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\QuanLySinhVien\Quản Lý Sinh Viên\Quản Lý Sinh Viên\obj\Debug\Quản Lý Sinh Viên.exe
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\QuanLySinhVien\Quản Lý Sinh Viên\Quản Lý Sinh Viên\obj\Debug\Quản Lý Sinh Viên.pdb
