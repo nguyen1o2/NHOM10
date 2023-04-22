@@ -1,0 +1,16 @@
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\CODE\Tuan 6\NguyenVanNguyen\NguyenVanNguyen\bin\Debug\net5.0\NguyenVanNguyen.exe
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\CODE\Tuan 6\NguyenVanNguyen\NguyenVanNguyen\bin\Debug\net5.0\NguyenVanNguyen.deps.json
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\CODE\Tuan 6\NguyenVanNguyen\NguyenVanNguyen\bin\Debug\net5.0\NguyenVanNguyen.runtimeconfig.json
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\CODE\Tuan 6\NguyenVanNguyen\NguyenVanNguyen\bin\Debug\net5.0\NguyenVanNguyen.runtimeconfig.dev.json
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\CODE\Tuan 6\NguyenVanNguyen\NguyenVanNguyen\bin\Debug\net5.0\NguyenVanNguyen.dll
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\CODE\Tuan 6\NguyenVanNguyen\NguyenVanNguyen\bin\Debug\net5.0\ref\NguyenVanNguyen.dll
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\CODE\Tuan 6\NguyenVanNguyen\NguyenVanNguyen\bin\Debug\net5.0\NguyenVanNguyen.pdb
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\CODE\Tuan 6\NguyenVanNguyen\NguyenVanNguyen\obj\Debug\net5.0\NguyenVanNguyen.csproj.AssemblyReference.cache
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\CODE\Tuan 6\NguyenVanNguyen\NguyenVanNguyen\obj\Debug\net5.0\NguyenVanNguyen.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\CODE\Tuan 6\NguyenVanNguyen\NguyenVanNguyen\obj\Debug\net5.0\NguyenVanNguyen.AssemblyInfoInputs.cache
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\CODE\Tuan 6\NguyenVanNguyen\NguyenVanNguyen\obj\Debug\net5.0\NguyenVanNguyen.AssemblyInfo.cs
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\CODE\Tuan 6\NguyenVanNguyen\NguyenVanNguyen\obj\Debug\net5.0\NguyenVanNguyen.csproj.CoreCompileInputs.cache
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\CODE\Tuan 6\NguyenVanNguyen\NguyenVanNguyen\obj\Debug\net5.0\NguyenVanNguyen.dll
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\CODE\Tuan 6\NguyenVanNguyen\NguyenVanNguyen\obj\Debug\net5.0\ref\NguyenVanNguyen.dll
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\CODE\Tuan 6\NguyenVanNguyen\NguyenVanNguyen\obj\Debug\net5.0\NguyenVanNguyen.pdb
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\CODE\Tuan 6\NguyenVanNguyen\NguyenVanNguyen\obj\Debug\net5.0\NguyenVanNguyen.genruntimeconfig.cache
