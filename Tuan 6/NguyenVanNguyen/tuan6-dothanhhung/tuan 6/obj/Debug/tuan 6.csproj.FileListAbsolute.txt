@@ -1,0 +1,7 @@
+C:\Users\ADMIN\source\repos\tuan 6\tuan 6\bin\Debug\tuan 6.exe.config
+C:\Users\ADMIN\source\repos\tuan 6\tuan 6\bin\Debug\tuan 6.exe
+C:\Users\ADMIN\source\repos\tuan 6\tuan 6\bin\Debug\tuan 6.pdb
+C:\Users\ADMIN\source\repos\tuan 6\tuan 6\obj\Debug\tuan 6.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\tuan 6\tuan 6\obj\Debug\tuan 6.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\tuan 6\tuan 6\obj\Debug\tuan 6.exe
+C:\Users\ADMIN\source\repos\tuan 6\tuan 6\obj\Debug\tuan 6.pdb
