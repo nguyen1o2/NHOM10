@@ -46,6 +46,7 @@ namespace Quản_Lý_Sinh_Viên
             this.dgvData.RowTemplate.Height = 24;
             this.dgvData.Size = new System.Drawing.Size(800, 349);
             this.dgvData.TabIndex = 0;
+            this.dgvData.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvData_CellContentClick);
             // 
             // frmMain
             // 

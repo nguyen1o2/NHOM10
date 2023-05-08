@@ -110,3 +110,230 @@ create table TaiKhoan(
 )
 select * from TaiKhoan
 insert into TaiKhoan values ('admin','admin')
+
+
+create procedure SelectAllSinhVien -- Tạo procedure để lấy toàn bộ sinh viên
+as
+select 
+   masinhvien,
+   case 
+       when LEN(tendem) > 0 then --nếu độ cài > 0 tức là có tên đệm
+	        CONCAT(ho,' ',tendem,'  ',ten) -- thì nối họ + tên đệm + tên bảng các khoảng trống
+       else CONCAT(ho,' ',ten) -- ngược lại không có tên đệm -> nối họ với tên bằng khoảng trống
+   end as hoten,
+   CONVERT(varchar(10),ngaysinh,103) as nsinh, -- định lại ngày sinh theo kiểu dd/mm/yy
+   case
+       when gioitinh = 1 then 'Nam'
+	   else N'Nữ'
+   end as gt,
+   quequan,
+   diachi,
+   dienthoai,
+   email  
+   from tblSinhVien
+go;
+
+exec  SelectAllSinhVien
+drop procedure SelectAllSinhVien
+select * from tblSinhVien
+
+--Tạo stored procedure để thêm mới một sinh viên vào bảng tblSinhVien
+
+create procedure ThemMoiSV
+--Khai báo danh sách tham số truyền vào
+       @Ho nvarchar(10),
+	   @TenDem nvarchar(20),
+	   @Ten nvarchar(10),
+	   @Ngaysinh date,
+	   @Gioitinh tinyint,
+	   @Quequan nvarchar(150),
+	   @Diachi nvarchar(150),
+	   @Dienthoai varchar(30),
+	   @Email varchar(150)
+	   --kết thúc khai báo
+as
+begin
+--thêm dữ liệu mới
+      insert into tblSinhVien
+	  (
+	     masinhvien,
+		 ho,tendem,ten,
+		 ngaysinh,gioitinh,
+		 quequan,diachi,
+		 dienthoai,email
+       )values(
+	     '19SV' + CAST(next value for sinhvienSeq as varchar(30)),--mã sinh tự động
+		 --Giá trị là các tham số được khai báo ở trên
+		 @Ho,@TenDem,@Ten,
+		 @Ngaysinh,@Gioitinh,
+		 @Quequan,@Diachi,
+		 @Dienthoai,@Email
+		 );--kết thúc thêm mới dữ liệu
+
+		 --Kiểm tra xem đã insert thanh công chưa
+		 if @@ROWCOUNT > 0 begin return 1 end --Nếu insert thành công trả về 1
+		 else begin return 0 end; --Ngược lại return 0
+end
+
+exec ThemMoiSV N'Nguyễn',N'Văn',N'Nguyên','2002-04-15',1,N'Thanh Hóa',N'Hà Nội','0814116368','muradnvn@gmail.com'
+select * from tblSinhVien
+
+create procedure updateSV
+--Khai báo danh sách tham số truyền vào
+       @masinhvien varchar(50),
+       @ho nvarchar(10),
+	   @tendem nvarchar(20),
+	   @ten nvarchar(10),
+	   @ngaysinh date,
+	   @gioitinh tinyint,
+	   @quequan nvarchar(150),
+	   @diachi nvarchar(150),
+	   @dienthoai varchar(30),
+	   @email varchar(150)
+	   --kết thúc khai báo
+as
+begin
+     update tblSinhVien
+	 set 
+	     ho = @ho,
+		 tendem = @tendem,
+		 ten = @ten,
+		 ngaysinh = @ngaysinh,
+		 gioitinh =@gioitinh,
+		 quequan = @quequan,
+		 diachi = @diachi,
+		 dienthoai = @dienthoai,
+		 email = @email
+     where masinhvien = @masinhvien;
+	 if @@ROWCOUNT > 0 begin return 1 end
+	 else begin return 0 end;
+end
+
+select * from tblSinhVien
+exec updateSV '19SV1109',N'Nguyễn',N'Văn',N'Nguyên','2002-04-15',1,N'Thanh Hóa',N'Hà Nội','0814116368','muradnvn@gmail.com'
+
+-- tạo procedure để select thông tin chi tiết của 1 sinh viên
+
+create procedure selectSV
+    @masinhvien varchar(50)
+as
+begin
+    select
+	   ho,tendem,ten,CONVERT(nvarchar(10),ngaysinh,103) as ngsinh,
+	   case  
+	       when gioitinh = 1 then N'Nam' else N'Nữ'
+	   end as gtinh,
+	   quequan,diachi,dienthoai,email
+	   from tblSinhVien
+	   where masinhvien=@masinhvien
+end
+go;
+
+exec selectSV '19SV1109'
+
+
+select * from tblGiaoVien
+
+create procedure selectAllGV
+       @tukhoa nvarchar(50)
+as
+begin
+     select 
+	      magiaovien,
+		  case 
+       when LEN(tendem) > 0 then --nếu độ cài > 0 tức là có tên đệm
+	        CONCAT(ho,' ',tendem,'  ',ten) -- thì nối họ + tên đệm + tên bảng các khoảng trống
+       else CONCAT(ho,' ',ten) -- ngược lại không có tên đệm -> nối họ với tên bằng khoảng trống
+   end as hoten,
+   case
+       when gioitinh = 1 then 'Nam'
+	   else N'Nữ'
+   end as gt,
+   dienthoai,
+   email,
+   diachi
+   from tblGiaoVien
+   where
+        LOWER(concat(ho,' ',tendem,' ',ten)) like '%' + LOWER(trim(@tukhoa))+'%'
+		or dienthoai like '%' + LOWER(trim(@tukhoa))+'%'
+		or CAST(magiaovien as varchar(30)) like '%' + LOWER(trim(@tukhoa))+'%'
+		or lower(email) like '%' + LOWER(trim(@tukhoa))+'%'
+		order by ten;
+end
+
+exec selectAllGV N'Mai'
+
+create procedure InsertGV
+--Khai báo danh sách tham số truyền vào
+       @nguoitao varchar(30),
+       @ho nvarchar(10),
+	   @tendem nvarchar(20),
+	   @ten nvarchar(10),
+	   @gioitinh tinyint,
+	   @ngaysinh date,
+	   @email varchar(150),
+	   @dienthoai varchar(30),
+	   @diachi nvarchar(150)
+	   --kết thúc khai báo
+as
+begin
+     insert into tblGiaoVien
+	 (
+	       nguoitao,
+		   ho,tendem,ten,
+		   gioitinh,ngaysinh,
+		   dienthoai,email,diachi
+		   )
+		   values(
+		   @nguoitao,
+		   @ho,@tendem,@ten,
+		   @gioitinh,@ngaysinh,
+		   @dienthoai,@email,@diachi
+		   );
+		  
+     if @@ROWCOUNT > 0 begin return 1 end
+	 else begin return 0 end;
+end
+
+
+
+create procedure updateGV
+--Khai báo danh sách tham số truyền vào
+       @nguoicapnhat varchar(30),
+       @magiaovien int,
+       @ho nvarchar(10),
+	   @tendem nvarchar(20),
+	   @ten nvarchar(10),
+	   @gioitinh tinyint,
+	   @ngaysinh date,
+	   @dienthoai varchar(30),
+	   @email varchar(150),
+	   @diachi nvarchar(150)
+	   --kết thúc khai báo
+as
+begin
+     update tblGiaoVien
+	 set
+	    nguoicapnhat = @nguoicapnhat,
+		ngaycapnhat = GETDATE(),
+		ho = @ho,tendem=@tendem,ten=@ten,
+		gioitinh=@gioitinh,ngaysinh=@ngaysinh,
+		dienthoai=@dienthoai,email=@email, diachi=@diachi
+		where magiaovien=@magiaovien;
+end
+
+create procedure selectGV
+       @magiaovien int
+as
+begin
+     select
+	     ho,
+		 tendem,
+		 ten,
+		 gioitinh,
+		 CONVERT(varchar(10),ngaysinh,103) as ngsinh,
+		 dienthoai,
+		 email,diachi
+		 from tblGiaoVien
+		 where magiaovien =@magiaovien;
+end

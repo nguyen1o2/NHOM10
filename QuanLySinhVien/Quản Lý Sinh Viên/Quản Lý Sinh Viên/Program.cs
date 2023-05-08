@@ -1,4 +1,5 @@
-﻿using System;
+﻿using QUANLYSINHVIEN;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -16,7 +17,7 @@ namespace Quản_Lý_Sinh_Viên
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmMain());
+            Application.Run(new frmDSGV());//set form chạy đầu tiên là form formDSGV
         }
     }
 }
