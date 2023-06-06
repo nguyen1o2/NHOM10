@@ -1,0 +1,48 @@
+using System;
+namespace P03_BubbleSort
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.Title = "Bubble Sort";
+            var numbers = new[] { 9, 1, 5, 2, 4, 6, 3 };
+            Sort(numbers);
+            Console.ReadKey();
+        }
+        static void Swap<T>(T[] array, int i, int m)
+        {
+            T temp = array[i];
+            array[i] = array[m];
+            array[m] = temp;
+        }
+        static void Print<T>(T[] array)
+        {
+            Console.WriteLine(string.Join("\t", array));
+        }
+        static void Sort<T>(T[] array) where T : IComparable
+        {
+            for (var i = 0; i < array.Length-1; i++)
+            {
+                var hasChanged = false;
+                for (var j = 0; j < array.Length - i - 1; j++)
+                {
+                    if (array[j].CompareTo(array[j + 1]) > 0)
+                    {
+                        hasChanged = true;
+                        Swap(array, j, j + 1);
+                    }
+                }
+                if (!hasChanged)
+                {
+                    break;
+                }
+                Console.ForegroundColor = ConsoleColor.Yellow;
+                Console.Write($"Step {i+1}:\t");
+                Console.ResetColor();
+                Print(array);
+                Console.WriteLine();
+            }
+        }
+    }
+}
