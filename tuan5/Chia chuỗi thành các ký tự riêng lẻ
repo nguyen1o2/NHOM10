@@ -1,0 +1,27 @@
+using System;
+
+namespace VietJackCsharp
+{
+    class TestCsharp
+    {
+        static void Main(string[] args)
+        {
+            string str; /* Khai bao mot chuoi */
+            int l = 0;
+
+            Console.Write("\nChia chuoi thanh cac ky tu rieng le trong C#:\n");
+            Console.Write("-----------------------------------------------\n");
+            Console.Write("Nhap mot chuoi: ");
+            str = Console.ReadLine();
+            Console.Write("In tung ky tu trong chuoi ban dau: ");
+            while (l <= str.Length - 1)
+            {
+                Console.Write("{0} ", str[l]);
+                l++;
+            }
+            Console.Write("\n\n");
+
+            Console.ReadKey();
+        }
+    }
+}
