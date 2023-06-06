@@ -1,0 +1,16 @@
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\CODE\Tuan 7\LietkesoFibonacci\LietkesoFibonacci\bin\Debug\net5.0\LietkesoFibonacci.exe
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\CODE\Tuan 7\LietkesoFibonacci\LietkesoFibonacci\bin\Debug\net5.0\LietkesoFibonacci.deps.json
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\CODE\Tuan 7\LietkesoFibonacci\LietkesoFibonacci\bin\Debug\net5.0\LietkesoFibonacci.runtimeconfig.json
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\CODE\Tuan 7\LietkesoFibonacci\LietkesoFibonacci\bin\Debug\net5.0\LietkesoFibonacci.runtimeconfig.dev.json
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\CODE\Tuan 7\LietkesoFibonacci\LietkesoFibonacci\bin\Debug\net5.0\LietkesoFibonacci.dll
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\CODE\Tuan 7\LietkesoFibonacci\LietkesoFibonacci\bin\Debug\net5.0\ref\LietkesoFibonacci.dll
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\CODE\Tuan 7\LietkesoFibonacci\LietkesoFibonacci\bin\Debug\net5.0\LietkesoFibonacci.pdb
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\CODE\Tuan 7\LietkesoFibonacci\LietkesoFibonacci\obj\Debug\net5.0\LietkesoFibonacci.csproj.AssemblyReference.cache
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\CODE\Tuan 7\LietkesoFibonacci\LietkesoFibonacci\obj\Debug\net5.0\LietkesoFibonacci.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\CODE\Tuan 7\LietkesoFibonacci\LietkesoFibonacci\obj\Debug\net5.0\LietkesoFibonacci.AssemblyInfoInputs.cache
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\CODE\Tuan 7\LietkesoFibonacci\LietkesoFibonacci\obj\Debug\net5.0\LietkesoFibonacci.AssemblyInfo.cs
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\CODE\Tuan 7\LietkesoFibonacci\LietkesoFibonacci\obj\Debug\net5.0\LietkesoFibonacci.csproj.CoreCompileInputs.cache
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\CODE\Tuan 7\LietkesoFibonacci\LietkesoFibonacci\obj\Debug\net5.0\LietkesoFibonacci.dll
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\CODE\Tuan 7\LietkesoFibonacci\LietkesoFibonacci\obj\Debug\net5.0\ref\LietkesoFibonacci.dll
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\CODE\Tuan 7\LietkesoFibonacci\LietkesoFibonacci\obj\Debug\net5.0\LietkesoFibonacci.pdb
+D:\Kì 6\MON THUC TAP CHUYEN NGANH HE THONG THONG TIN\CODE\Tuan 7\LietkesoFibonacci\LietkesoFibonacci\obj\Debug\net5.0\LietkesoFibonacci.genruntimeconfig.cache
