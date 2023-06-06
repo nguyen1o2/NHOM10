@@ -1,0 +1,15 @@
+D:\KÌ 5\LAPTRINH.NET\HOC\ConsoleApp1\TinhTienDien\bin\Debug\net5.0\TinhTienDien.exe
+D:\KÌ 5\LAPTRINH.NET\HOC\ConsoleApp1\TinhTienDien\bin\Debug\net5.0\TinhTienDien.deps.json
+D:\KÌ 5\LAPTRINH.NET\HOC\ConsoleApp1\TinhTienDien\bin\Debug\net5.0\TinhTienDien.runtimeconfig.json
+D:\KÌ 5\LAPTRINH.NET\HOC\ConsoleApp1\TinhTienDien\bin\Debug\net5.0\TinhTienDien.runtimeconfig.dev.json
+D:\KÌ 5\LAPTRINH.NET\HOC\ConsoleApp1\TinhTienDien\bin\Debug\net5.0\TinhTienDien.dll
+D:\KÌ 5\LAPTRINH.NET\HOC\ConsoleApp1\TinhTienDien\bin\Debug\net5.0\ref\TinhTienDien.dll
+D:\KÌ 5\LAPTRINH.NET\HOC\ConsoleApp1\TinhTienDien\bin\Debug\net5.0\TinhTienDien.pdb
+D:\KÌ 5\LAPTRINH.NET\HOC\ConsoleApp1\TinhTienDien\obj\Debug\net5.0\TinhTienDien.GeneratedMSBuildEditorConfig.editorconfig
+D:\KÌ 5\LAPTRINH.NET\HOC\ConsoleApp1\TinhTienDien\obj\Debug\net5.0\TinhTienDien.AssemblyInfoInputs.cache
+D:\KÌ 5\LAPTRINH.NET\HOC\ConsoleApp1\TinhTienDien\obj\Debug\net5.0\TinhTienDien.AssemblyInfo.cs
+D:\KÌ 5\LAPTRINH.NET\HOC\ConsoleApp1\TinhTienDien\obj\Debug\net5.0\TinhTienDien.csproj.CoreCompileInputs.cache
+D:\KÌ 5\LAPTRINH.NET\HOC\ConsoleApp1\TinhTienDien\obj\Debug\net5.0\TinhTienDien.dll
+D:\KÌ 5\LAPTRINH.NET\HOC\ConsoleApp1\TinhTienDien\obj\Debug\net5.0\ref\TinhTienDien.dll
+D:\KÌ 5\LAPTRINH.NET\HOC\ConsoleApp1\TinhTienDien\obj\Debug\net5.0\TinhTienDien.pdb
+D:\KÌ 5\LAPTRINH.NET\HOC\ConsoleApp1\TinhTienDien\obj\Debug\net5.0\TinhTienDien.genruntimeconfig.cache
